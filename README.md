@@ -11,3 +11,4 @@ First element to occur K times
 Missing number in array
 Topological sort
 Stock buy and sell
+Find duplicates in array
