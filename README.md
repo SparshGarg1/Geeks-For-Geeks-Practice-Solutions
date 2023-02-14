@@ -12,3 +12,4 @@ Missing number in array
 Topological sort
 Stock buy and sell
 Find duplicates in array
+Kahn's Algorithm
