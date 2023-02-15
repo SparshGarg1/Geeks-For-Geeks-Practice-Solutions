@@ -16,3 +16,4 @@
 15. Detect cycle in a directed graph using Kahn's Algorithm
 16. Array Subset of another array
 17. Find First Repeated Character
+18. implement strstr
