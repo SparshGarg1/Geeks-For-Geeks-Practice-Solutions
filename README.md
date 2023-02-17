@@ -17,8 +17,5 @@
 16. Array Subset of another array
 17. Find First Repeated Character
 18. implement strstr
-<<<<<<< HEAD
-20. Is it Fibonacci
-=======
 19. Power Of 2
->>>>>>> e92d96326e5b471c9fff14dc1f6bb6fabc263278
+20. Is it Fibonacci
