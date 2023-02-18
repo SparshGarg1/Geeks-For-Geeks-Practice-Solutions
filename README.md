@@ -20,3 +20,4 @@
 19. Power Of 2
 20. Is it Fibonacci
 21. Eventual Safe States
+22. Alien Dictionary
