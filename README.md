@@ -19,3 +19,4 @@
 18. implement strstr
 19. Power Of 2
 20. Is it Fibonacci
+21. Eventual Safe States
