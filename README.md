@@ -28,3 +28,4 @@
 27. Swap and Maximize
 28. Print first n Fibonacci Numbers
 29. Toggle bits given range
+30. Middle of Three
