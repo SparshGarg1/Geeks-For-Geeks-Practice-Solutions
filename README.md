@@ -30,3 +30,4 @@
 29. Toggle bits given range
 30. Middle of Three
 31. Queue reversal
+32. Count Squares
