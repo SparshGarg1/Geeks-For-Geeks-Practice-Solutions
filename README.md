@@ -26,3 +26,4 @@
 25. Set Kth Bit
 26. Peak element
 27. Swap and Maximize
+28. Print first n Fibonacci Numbers
