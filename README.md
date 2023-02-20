@@ -25,3 +25,4 @@
 24. Number is sparse or not
 25. Set Kth Bit
 26. Peak element
+27. Swap and Maximize
