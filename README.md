@@ -34,3 +34,4 @@
 33. Word Ladder II
 34. Implementing Dijksta Algorithm
 35. First Repeating Element
+36. Wave Array
