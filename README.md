@@ -33,3 +33,4 @@
 32. Count Squares
 33. Word Ladder II
 34. Implementing Dijksta Algorithm
+35. First Repeating Element
