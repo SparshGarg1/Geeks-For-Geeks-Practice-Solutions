@@ -44,3 +44,4 @@
 45. Search in a Rotated Array
 46. Selection Sort
 47. Bubble Sort
+48. Insertion Sort
