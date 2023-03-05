@@ -45,3 +45,4 @@
 46. Selection Sort
 47. Bubble Sort
 48. Insertion Sort
+49. Merge Sort
