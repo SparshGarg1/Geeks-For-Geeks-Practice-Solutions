@@ -46,3 +46,4 @@
 47. Bubble Sort
 48. Insertion Sort
 49. Merge Sort
+50. Quick Sort
