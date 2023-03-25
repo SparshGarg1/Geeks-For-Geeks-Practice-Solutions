@@ -49,3 +49,4 @@
 50. Quick Sort
 51. Remove Duplicates
 52. Geek Jump
+53. Searching an element in a sorted array
