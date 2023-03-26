@@ -51,3 +51,4 @@
 52. Geek Jump
 53. Searching an element in a sorted array
 54. Largest Element in Array
+55. Second Largest
