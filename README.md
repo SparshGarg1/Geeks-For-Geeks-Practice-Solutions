@@ -59,3 +59,4 @@
 60. Print N to 1 without loop
 61. Sum of first n terms 
 62. Find all factorial numbers less than or equal to N
+63. Frequencies of Limited Range Array Elements
