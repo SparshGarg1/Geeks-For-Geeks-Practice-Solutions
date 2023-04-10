@@ -54,3 +54,4 @@
 55. Second Largest
 56. Union of Two Sorted Arrays
 57. Leaders in an array
+58. Print 1 To N Without Loop
