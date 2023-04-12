@@ -62,3 +62,4 @@
 63. Frequencies of Limited Range Array Elements
 64. Pass by Reference and Value
 65. For Loop- primeCheck - Java
+66. Java Switch Case statement
