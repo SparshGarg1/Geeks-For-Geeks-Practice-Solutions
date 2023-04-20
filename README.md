@@ -66,3 +66,4 @@
 67. if-else (Decision Making)
 68. Data Type
 69. Count Digits
+70. Armstrong Numbers
