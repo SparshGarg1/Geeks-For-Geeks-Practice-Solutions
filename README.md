@@ -65,3 +65,4 @@
 66. Java Switch Case statement
 67. if-else (Decision Making)
 68. Data Type
+69. Count Digits
