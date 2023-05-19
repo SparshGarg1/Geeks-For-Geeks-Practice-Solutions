@@ -67,4 +67,4 @@
 68. Data Type
 69. Count Digits
 70. Armstrong Numbers
-71.
+71. Introduction to Linked Lis
