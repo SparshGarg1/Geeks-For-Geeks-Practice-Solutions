@@ -69,3 +69,4 @@
 70. Armstrong Numbers
 71. Introduction to Linked Lis
 72. Linked List Insertion
+73. Count nodes of linked list
