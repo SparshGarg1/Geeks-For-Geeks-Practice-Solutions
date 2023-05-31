@@ -73,3 +73,4 @@
 74. Search in Linked List
 75. Find length of loop
 76. Given a linked list of 0s, 1s and 2s, sort it
+77. Implement stack using array
