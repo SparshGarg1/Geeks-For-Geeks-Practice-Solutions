@@ -75,3 +75,4 @@
 76. Given a linked list of 0s, 1s and 2s, sort it
 77. Implement stack using array
 78. Implement Queue using array
+79. Implement Stack using Linked List
