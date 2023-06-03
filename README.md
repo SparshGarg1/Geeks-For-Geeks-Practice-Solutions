@@ -77,3 +77,4 @@
 78. Implement Queue using array
 79. Implement Stack using Linked List
 80. Implement Queue using Linked List
+81. Immediate Smaller Element
