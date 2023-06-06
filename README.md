@@ -78,3 +78,4 @@
 79. Implement Stack using Linked List
 80. Implement Queue using Linked List
 81. Immediate Smaller Element
+82. Postorder Traversal
