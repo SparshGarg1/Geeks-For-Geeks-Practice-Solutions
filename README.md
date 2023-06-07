@@ -82,3 +82,4 @@
 83. Inorder Traversal
 84. Count Leaves in Binary Tree
 85. Preorder Traversal
+86. Node at a given index in linked list
