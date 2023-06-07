@@ -80,3 +80,4 @@
 81. Immediate Smaller Element
 82. Postorder Traversal
 83. Inorder Traversal
+84. Count Leaves in Binary Tree
