@@ -81,3 +81,4 @@
 82. Postorder Traversal
 83. Inorder Traversal
 84. Count Leaves in Binary Tree
+85. Preorder Traversal
