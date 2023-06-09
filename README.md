@@ -86,3 +86,4 @@
 87. Check If Circular Linked List
 88. Root to Leaf Paths
 89. Row with max 1s
+90. LCM And GCD
