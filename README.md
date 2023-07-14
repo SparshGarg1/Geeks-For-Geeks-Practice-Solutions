@@ -90,3 +90,4 @@
 91. Sum of all divisors from 1 to n
 92. Key Pair
 93. Floor in a sorted array
+94. Longest Sub-Array with Sum K
