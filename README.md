@@ -92,3 +92,4 @@
 93. Floor in a sorted array
 94. Longest Sub-Array with Sum K
 95. Kadane's Algorithm
+96. Ceil the floor
