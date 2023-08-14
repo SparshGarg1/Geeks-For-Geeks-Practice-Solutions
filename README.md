@@ -94,3 +94,5 @@
 95. Kadane's Algorithm
 96. Ceil the floor
 97. Number of occurrence
+98. delete a node in a single linked list
+99. Finding middle element in a linked list
