@@ -97,3 +97,4 @@
 98. delete a node in a single linked list
 99. Finding middle element in a linked list
 100. Detect Loop in Linked List
+101. Find the first node of loop in linked list
