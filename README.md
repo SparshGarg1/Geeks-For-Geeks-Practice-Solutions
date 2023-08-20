@@ -100,3 +100,4 @@
 101. Find the first node of loop in linked list
 102. Majority Element
 103. Prime Number
+104. Kth smallest element
