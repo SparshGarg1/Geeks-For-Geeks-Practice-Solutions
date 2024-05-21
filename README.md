@@ -103,3 +103,5 @@
 104. Kth smallest element
 105. Sum of Series
 106. Print alternate elements of an array
+107. Print the pattern | Set-1
+
