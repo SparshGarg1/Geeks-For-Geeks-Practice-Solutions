@@ -107,3 +107,7 @@
 108. Check for Binary
 109. Count of Smaller Elements
 110. Java Hello World
+111. Sum of Array
+112. Print Elements of Array
+113. Find Index
+114. Palindrome
