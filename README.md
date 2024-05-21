@@ -106,3 +106,4 @@
 107. Print the pattern | Set-1
 108. Check for Binary
 109. Count of Smaller Elements
+110. Java Hello World
