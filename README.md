@@ -117,3 +117,4 @@
 118. Convert String to LowerCase
 119. Remove Spaces
 120. C++ Array (print an element) | Set 2
+121. Perfect Arrays
