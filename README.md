@@ -112,3 +112,8 @@
 113. Find Index
 114. Palindrome
 115. Reverse digits
+116. Swap Kth Element
+117. Display Longest Name
+118. Convert String to LowerCase
+119. Remove Spaces
+120. C++ Array (print an element) | Set 2
