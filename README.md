@@ -120,3 +120,6 @@
 121. Perfect Arrays
 122. Odd or Even
 123. Smaller and Larger
+124. C++ if-else(Decision Making)
+125. Addition of Two Numbers
+126. Series AP
