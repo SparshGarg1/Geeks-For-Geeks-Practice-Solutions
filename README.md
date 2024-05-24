@@ -125,3 +125,4 @@
 126. Series AP
 127. Reverse a String
 128. Print Linked List Elements
+129. Factorial
