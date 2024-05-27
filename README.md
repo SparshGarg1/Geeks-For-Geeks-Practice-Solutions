@@ -1,4 +1,4 @@
-# Geeks-For-Geeks-Practise-Solutions
+# Geeks-For-Geeks-Practice-Solutions
 1. Binary Search
 2. Bipartite Graph
 3. Detect Cycle in Undirected Graph
