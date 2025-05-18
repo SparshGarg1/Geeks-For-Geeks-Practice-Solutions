@@ -130,3 +130,4 @@
 131. Searching a Number
 132. Sorting Elements of an Array by Frequency
 133. Move All Zeroes to End
+134. Preorder traversal (Iterative)
