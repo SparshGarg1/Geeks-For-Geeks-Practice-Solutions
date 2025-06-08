@@ -133,3 +133,5 @@
 134. Preorder traversal (Iterative)
 135. Iterative Inorder
 136. Level order traversal
+137. Check if array is sorted
+138. Rotate Array by One
